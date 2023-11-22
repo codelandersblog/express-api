@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "author": "Chinua Achebe",
+    "language": "English",
+    "title": "Things Fall Apart",
+    "year": 1958
+  },
+  {
+    "id": 2,
+    "author": "Hans Christian Andersen",
+    "language": "Danish",
+    "title": "Fairy tales",
+    "year": 1836
+  },
+  {
+    "id": 3,
+    "author": "Dante Alighieri",
+    "language": "Italian",
+    "title": "The Divine Comedy",
+    "year": 1315
+  },
+  {
+    "id": 4,
+    "author": "Jane Austen",
+    "language": "English",
+    "title": "Pride and Prejudice",
+    "year": 1813
+  }
+]
